@@ -38,14 +38,13 @@ h1 {
     font-size: 16px;
     height: 100px;
     margin: 20px;
-    text-align: right;
+    text-align: left;
 }
 
 #links a {
     display: block;
-    font-size: 18px;
+    font-size: 14px;
     height: 100px;
-    font-weight: bold;
     margin: 20px;
 }
 
